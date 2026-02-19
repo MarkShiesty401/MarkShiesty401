@@ -6,17 +6,20 @@
 
 # Exercise 2 — Text formatting: 
 **Write a sentence that includes a bold word, an italic word, and an inline code snippet.**
+
 `GitHub` is a *platform* for **software development** and collaboration.
 
 
 # Exercise 3 — Links: 
 **Create a link to your GitHub profile page and a link to any website you find useful.**
+
 https://github.com/MarkShiesty401
 https://open.spotify.com
 
 
 # Exercise 4 — Lists: 
 **Create an unordered list of 3 things you want to learn. Then create an ordered list of the steps to make a commit in Git**
+
 **Things I would like to learn:**
 - Machine learning algorithms
 - Cybersecurity best practices
@@ -30,6 +33,7 @@ https://open.spotify.com
 
 # Exercise 5 — Table: 
 **Create a table with 3 columns (Tool, Purpose, Link) and at least 2 rows listing tools you use or want to learn.**
+
 | Tool      | Purpose                         | Link                   |
 |__________ | _______________________________ | ______________________ |
 | Github    | Version control & collaboration | https://github.com     |
@@ -46,12 +50,13 @@ https://open.spotify.com
 
 # Exercise 7 — Code block: 
 **Write a code block in any language (or copy an example from the syntax reference above). Make sure to specify the language after the triple backticks for syntax highlighting.**
+
 alert("Hello world!");
 ```Javascript```
 
 
 # Exercise 8 — Blockquote:
 **Write a blockquote with a piece of advice, a quote you like, or something you learned recently.**
-> To be ballin, you need to be all in.
+> To be ballin, you gotta be all in.
 
 
